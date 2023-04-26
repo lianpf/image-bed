@@ -4,6 +4,8 @@
 
 2023年04月：
 
+* 0426（001）：作用域链；位置`profession/issues/02.前端基础/01.JavaScript`
+
 * 0418
   * 001/003/004: `vue`双向数据绑定原理流、Vue的响应式系统程、`CreateKeyToOldIndex()`；位置`profession/issues/03.前端框架/02.Vue技术栈`
   * 002: 测试用例demo（低代码v1.1.7）
