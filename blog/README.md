@@ -1,5 +1,9 @@
 ## `image-bed / blog`
 
+2023年05月：
+
+* 20230505（001~002）：`/front-end-basics/09.ajax-interceptor.md` - 使用教程
+
 2023年04月：
 
 * 0407（001）
