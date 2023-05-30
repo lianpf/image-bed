@@ -2,6 +2,7 @@
 
 2023年05月：
 
+* 20230530（001）: `/develop-diary/35.vpn-ssr-adblock-filters.md` - ssr pac模式自定义规则配置
 * 20230526（001~002）：`/develop-diary/36.chrome-settin.md` - 使用教程
 * 20230505（001~002）：`/front-end-basics/09.ajax-interceptor.md` - 使用教程
 
